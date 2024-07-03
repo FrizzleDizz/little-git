@@ -1,4 +1,4 @@
-# edit-git
+# little-git
 
 This is a p tag
 
