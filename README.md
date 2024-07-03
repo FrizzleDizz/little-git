@@ -1,5 +1,4 @@
 # little-git
-Just a little git.
 
 This is a p tag
 
